@@ -125,6 +125,8 @@ Usa las flechas del teclado para bajar. Busca las líneas que configuran el `LLM
 
 Tu agente necesita "cuerpo" en Telegram para hablarte.
 
+![Cómo conectar OpenClaw a Telegram](https://github.com/user-attachments/assets/19a84808-f33c-4564-a8ee-4558d6f4c1d8)
+
 1.  Abre Telegram en tu móvil/PC y busca al usuario **@BotFather**.
 2.  Escribe `/newbot`.
 3.  Ponle un nombre (ej: `MiAgenteSecreto`).
