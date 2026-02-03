@@ -2,8 +2,7 @@
 
 > **Despliegue completo en la nube sin costes de servidor ni de modelos.**
 
-Esta guía te permite instalar **OpenClaw** en un servidor privado para tener un agente autónomo operativo 24/7. Contrólalo desde Telegram con total privacidad, sin necesidad de hardware propio y manteniendo un coste de $0.
-
+Instálalo en un servidor privado para tener tu agente autónomo 24/7. Contrólalo por Telegram con total privacidad, sin hardware propio y a coste $0.
 ---
 
 ## 📋 Requisitos previos (todo gratis)
