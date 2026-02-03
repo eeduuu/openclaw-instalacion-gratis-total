@@ -1,4 +1,4 @@
-# OpenClaw (privado y gratis): Tu agente de IA autónomo con Qwen y AWS
+# OpenClaw: Guía de instalación 100% gratis (sin costes de plataforma ni modelo)
 
 > **Estado:** 🟢 Activo | **Coste:** 0€ (Usando AWS Free Tier + API gratuita) | **Modelo:** Qwen / Llama 3
 
