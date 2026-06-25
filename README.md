@@ -189,10 +189,10 @@ Si ves mensajes de colores y texto que dice "Started polling" o similar, ¡felic
 
 Esta versión está mantenida por:
 
-💼 [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
+💼 [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu/)
 
 <p align="left">
- <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
+ <a href="https://www.linkedin.com/in/eeduuu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
 </p>
 
 Si este repositorio te resulta útil, **puedes dejar una ⭐**.
